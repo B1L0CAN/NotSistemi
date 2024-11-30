@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\dbnotkayitdataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\dbnotkayitdataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|c:\\aktarma\\bilal\\kod\\bm102dersi_donemsonuprojeodevi\\bm102_projeodevi\\bm102_projeodevi\\frmogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogrenciduyuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogrenciduyuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogrenciistek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogrenciistek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogretmenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogretmenpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogretmenistek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogretmenistek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogrencipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogrencipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\dbnotkayitdataset4.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\dbnotkayitdataset4.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogretmenduyuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogretmenduyuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogretmenduyuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogretmenduyuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BM102_ProjeOdevi||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\bm102_projeodevi\\girispaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFB94301-A1A0-4D24-9432-38D9559179E9}|BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj|solutionrelative:bm102_projeodevi\\girispaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOgrenciDetay.cs",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciDetay.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgrenciDetay.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciDetay.cs",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgrenciDetay.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:03:50.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbNotKayitDataSet2.xsd",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\DbNotKayitDataSet2.xsd",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\DbNotKayitDataSet2.xsd",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\DbNotKayitDataSet2.xsd",
+              "RelativeToolTip": "BM102_ProjeOdevi\\DbNotKayitDataSet2.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-07-11T13:03:39.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmOgrenciIstek.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciIstek.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgrenciIstek.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciIstek.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgrenciIstek.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:03:37.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmOgrenciPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciPanel.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgrenciPanel.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgrenciPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T13:29:27.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmOgrenciDuyuru.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciDuyuru.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgrenciDuyuru.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciDuyuru.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgrenciDuyuru.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:29:25.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOgrenciDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciDetay.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgrenciDetay.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgrenciDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:29:22.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmOgretmenIstek.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenIstek.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgretmenIstek.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenIstek.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgretmenIstek.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T13:29:30.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmOgretmenPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenPanel.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgretmenPanel.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgretmenPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T13:29:33.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmOgretmenDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenDetay.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgretmenDetay.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgretmenDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-17T12:48:56.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbNotKayitDataSet4.xsd",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\DbNotKayitDataSet4.xsd",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\DbNotKayitDataSet4.xsd",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\DbNotKayitDataSet4.xsd",
+              "RelativeToolTip": "BM102_ProjeOdevi\\DbNotKayitDataSet4.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-04-28T13:29:24.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmOgrenciGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciGiris.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgrenciGiris.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgrenciGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgrenciGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-06-17T12:43:10.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmOgretmenDetay.cs",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenDetay.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgretmenDetay.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenDetay.cs",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgretmenDetay.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAApwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-06-17T12:48:57.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmOgretmenDuyuru.cs",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenDuyuru.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgretmenDuyuru.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenDuyuru.cs",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgretmenDuyuru.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAewAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-06-17T12:47:13.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmOgretmenDuyuru.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenDuyuru.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\FrmOgretmenDuyuru.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\FrmOgretmenDuyuru.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BM102_ProjeOdevi\\FrmOgretmenDuyuru.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-06-17T12:47:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BM102_ProjeOdevi",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj",
+              "RelativeToolTip": "BM102_ProjeOdevi\\BM102_ProjeOdevi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-06-17T12:43:04.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\Program.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\Program.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\Program.cs",
+              "RelativeToolTip": "BM102_ProjeOdevi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-17T12:42:53.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GirisPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\GirisPaneli.cs",
+              "RelativeDocumentMoniker": "BM102_ProjeOdevi\\GirisPaneli.cs",
+              "ToolTip": "C:\\Aktarma\\Bilal\\Kod\\BM102Dersi_DonemSonuProjeOdevi\\BM102_ProjeOdevi\\BM102_ProjeOdevi\\GirisPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BM102_ProjeOdevi\\GirisPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-06-17T12:42:14.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
